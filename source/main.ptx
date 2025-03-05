@@ -6,7 +6,7 @@
 
   <article xml:id="mth-111-syllabus">
     <title>Syllabus</title>
-    <subtitle>MTH 111 Precalculus I</subtitle>
+    <subtitle>MTH111 Precalculus I: Functions</subtitle>
 
     <!-- Include frontmatter -->
     <xi:include href="./frontmatter.ptx" />

@@ -5,13 +5,17 @@
   <subsection xml:id="subsec-textbook">
     <title>Textbook</title>
     <p>
-      For this class we will be using <pubtitle>Basic College Mathematics (Third Edition)</pubtitle>. Most of the structure of the class will be built around chapters 1-6,
-      with chapters 7-11 used as references for applications throughout the term.
+		For this class we will be using <pubtitle>Algebra and Trigonometry 2e </pubtitle>. This is an Open Education Resource from
+		OpenStax and is free to access. We will be covering chapters 3 through 6.
     </p>
     <p>
-    Purchase this book at the
-    <url href="https://bookstore.pcc.edu/store2/SelectTermDept.aspx" visual="bookstore.pcc.edu/store2/SelectTermDept.aspx">PCC book store.</url>
-    </p>  
+		Access the digital version of this book at <url href="https://openstax.org/books/algebra-and-trigonometry-2e/pages/3-introduction-to-functions">openstax</url>.
+		There are also <url href="https://openstax.org/details/books/algebra-and-trigonometry-2e">additional resources for Algebra and Trigonometry</url> if you would
+		like to download a PDF or purchase a print copy. 
+	</p>  
+	<p>
+		Learn more about <url = href="https://www.pcc.edu/programs/math/oer/">OERs currently used in PCC math classes here.</url>	
+	</p>
   </subsection>
   <subsection xml:id="subsec-supplies">
     <title>Supplies</title>
@@ -44,7 +48,8 @@
       </li>
       <li>
         <p>
-          A personal scientific calculator such as a <url href="https://bookstore.pcc.edu/store4/MerchDetail?MerchID=887872" visual="https://bookstore.pcc.edu/store4/MerchDetail?MerchID=887872">TI-30XS</url> may be helpful for this class, but is not required.
+			A personal graphing calculator (such as a TI-84+) or Scientific Calculator (such as a TI-30XS) may be helpful for this class but is not required. Where technology is
+			required in this class, a free online tool such as <url href="https://www.desmos.com">Desmos</url> can be used. 
         </p>
       </li>
     </ul>

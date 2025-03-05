@@ -8,15 +8,15 @@
     <dl>
       <li>
         <title>Course Number</title>
-        <p>MTH 20</p>
+        <p>MTH 111</p>
       </li>
       <li>
         <title>Course Title</title>
-        <p>Fundamentals of Mathematics</p>
+        <p>Precalculus I: Functions</p>
       </li>
       <li>
         <title>CRN</title>
-        <p>25135</p>
+        <p>20518</p>
       </li>
       <li>
         <title>Credit Hours</title>
@@ -27,21 +27,29 @@
         <p>30</p>
       </li>
       <li>
-        <title>Lecture/Lab Hours</title>
-        <p>20</p>
+        <title>Lab Hours</title>
+        <p>30</p>
       </li>
       <li>
         <title>Prerequisites</title>
         <p>
-          <line>ABE 0782 or placement into MTH 20, and</line>
-          <line>placement into RD 80 or ESOL 250.</line>
+			<line>MTH 95, and</line>
+          <line>(RD115 and WR115) or IRW115 or equivalent placement.</line>
         </p>
       </li>
     </dl>
   </p>
   <p>
-    Develops arithmetic fluency and the conceptual basis, and applications of integers, fractions, decimals, percents, and measurements. The PCC math department recommends that students take MTH 
-    courses in consecutive terms. Audit available.
+	  Povides Provides preparation for trigonometry or calculus. Focuses on 
+	  functions and their properties, including polynomial, rational, 
+	  exponential, logarithmic, piecewise-defined, and inverse functions. 
+	  Explores topics symbolically, numerically, and graphically in real-life 
+	  applications and interprets them in context. Emphasizes skill building, 
+	  problem solving, modeling, reasoning, communication, connections with 
+	  other disciplines, and the appropriate use of present-day technology. 
+	  This course is part of Oregon Common Course Numbering. MTH 111 and MTH 
+	  111Z are equivalent. The PCC Mathematics Department recommends that 
+	  students take MTH courses in consecutive terms. Audit available.
   </p>
   <paragraphs>
     <title>Learning Outcomes</title>
@@ -50,17 +58,39 @@
       <ol>
         <li>
           <p>
-            Perform accurate arithmetic computations in a variety of expressions and applications.
+			  Explore the concept of a function numerically, symbolically, 
+			  verbally, and graphically and identify properties of functions 
+			  both with and without technology.
           </p>
         </li>
         <li>
           <p>
-            Apply mathematical problem solving strategies.
+			  Analyze polynomial, rational, exponential, and logarithmic 
+			  functions, as well as piecewise-defined functions, in both 
+			  algebraic and graphical contexts, and solve equations 
+			  involving these function types.
           </p>
         </li>
         <li>
           <p>
-            Effectively communicate mathematical reasoning.
+			  Demonstrate algebraic and graphical competence in the use and 
+			  application of functions including notation, evaluation, 
+			  domain/range, algebraic operations and composition, inverses, 
+			  transformations, symmetry, rate of change, extrema, intercepts, 
+			  asymptotes, and other behavior.
+          </p>
+        </li>
+        <li>
+          <p>
+			  Use variables and functions to represent unknown quantities, 
+			  create models, find solutions, and communicate an interpretation 
+			  of the results.
+          </p>
+        </li>
+        <li>
+          <p>
+			  Determine the reasonableness and implications of mathematical 
+			  methods, solutions, and approximations in context.
           </p>
         </li>
       </ol>
