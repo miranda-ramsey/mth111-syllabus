@@ -81,9 +81,10 @@
   <!-- for printing; set @sides="two" if the printing would be two- -->
   <!-- sided.  @pageref="yes/no" controls whether page number are   -->
   <!-- included in cross-references                                 -->
-  <latex>
+	  <!--<latex>-->
   <!-- Replace the <latex> tag above with the one below to try these-->
-  <!--
+	  <!--
+	  REMOVE ME-->
     <latex
           print="no"
           sides="one"
@@ -91,8 +92,8 @@
           pageref="no"
           font-size="10"
           draft="no"
-          latex-style="dyslexic-font"
       > 
+	<!--REMOVE ME
   -->
 
     <!-- Control text justification and bottom page behavior. Add content intended for \geometry{} inside the <geometry> element. -->
