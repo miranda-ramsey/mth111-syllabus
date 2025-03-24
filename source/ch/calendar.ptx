@@ -19,38 +19,34 @@
     </row>
     <row bottom="minor">
       <cell>3/31-4/6</cell>
-      <cell></cell>
-      <cell></cell>
+      <cell>Algebra Review</cell>
+      <cell>Sets and Functions</cell>
       <cell>
         <line>Intro Form</line>
         <line>(see <xref ref="subsec-first-week"/>)</line>
         <line>Prob. Set 1 (due 4/7)</line>
-        <line>Activity 1,2</line>
       </cell>
     </row>
     <row bottom="minor">      
       <cell>4/7-4/13</cell>
-      <cell>Prime Numbers and Exponents</cell>
-      <cell>Factoring</cell>
+      <cell>Graphs of Functions</cell>
+      <cell>Domain and Range</cell>
       <cell>
         <line>Prob. Set 2 (due 4/14)</line>
-        <line>Activity 3,4</line>
       </cell>
     </row>
     <row bottom="minor">      
       <cell>4/14-4/20</cell>
-      <cell>Fractions</cell>
-      <cell>Fraction Multiplication</cell>
+      <cell>Analyzing Functions</cell>
+      <cell>Analyzing Functions</cell>
       <cell>
         <line>Prob. Set 3 (due 4/21)</line>
-        <line>Activity 5,6</line>
       </cell>
     </row>
     <row bottom="minor">      
       <cell>4/21-4/27</cell>
-      <cell>Fraction Simplification</cell>
-      <cell>Fraction Addition</cell>
-      <cell>Activity 7,8</cell>
+      <cell>Function Arithmetic</cell>
+      <cell>Linear Functions</cell>
     </row>
     <row bottom="minor">
       <cell>4/28-5/4</cell>
@@ -63,20 +59,18 @@
     </row>
     <row bottom="minor">
       <cell>5/5-5/11</cell>
-      <cell>Decimals</cell>
-      <cell>Decimal Addition</cell>
+      <cell>Exponentials</cell>
+      <cell>Exponential Functions</cell>
       <cell>
         <line>Prob. Set 4 (due 5/12)</line>
-        <line>Activity 10,11</line>
       </cell>
     </row>
     <row bottom="minor">
       <cell>5/12-5/18</cell>
-      <cell>Decimal Multiplication</cell>
-      <cell>Decimal Division</cell>
+      <cell>Logarithms</cell>
+      <cell>Logarithmic Functions</cell>
       <cell>
         <line>Prob. Set 5 (due 5/21)</line>
-        <line>Activity 12,13</line>
       </cell>
     </row>
     <row bottom="minor">
@@ -85,36 +79,32 @@
         <line><em>No Class</em></line>
         <line>(School Holiday)</line>
       </cell>
-      <cell>Ratios/Proportions</cell>
+      <cell>Inverse Functions</cell>
       <cell>
         <line>Prob. Set 6 (due 5/26)</line>
-        <line>Activity 14</line>
       </cell>
     </row>
     <row bottom="minor">
       <cell>5/26-6/1</cell>
-      <cell>Rates and Unit Costs</cell>
-      <cell>Percentages</cell>
+      <cell>Polynomial Functions</cell>
+      <cell>Radical Functions</cell>
       <cell>
         <line>Prob. Set 7 (due 6/2)</line>
-        <line>Activity 15,16</line>
       </cell>
     </row>
     <row bottom="minor">
       <cell>6/2-6/8</cell>
-      <cell>Probability</cell>
+      <cell>Rational Functions</cell>
       <cell>Catch Up</cell>
-      <cell>
-        <line>Activity 17,18</line>
-      </cell>
+      <cell></cell>
     </row>
     <row>
       <cell>6/9-6/15</cell>
+      <cell><em>Final Exam</em></cell>
       <cell>
         <line><em>No Class</em></line>
         <line>(Finals Week)</line>
       </cell>
-      <cell><em>Final Exam</em></cell>
       <cell>Self-Assessment 2</cell>
     </row>
   </tabular>
@@ -162,8 +152,8 @@
         <row bottom="minor">
           <cell>Final Exam</cell>
           <cell>
-            <line>Wednesday, June 11</line>
-            <line>2 PM, approximately 2 hours. See <xref ref="subsec-exams"/>.</line>
+            <line>Monday, June 9</line>
+            <line>9 AM, approximately 2 hours. See <xref ref="subsec-exams"/>.</line>
           </cell>
         </row>
         <row>
